@@ -19,7 +19,7 @@ handleSearch = async (searchItem)=>{
         params:{
             part:'snippet',
             maxResults:5,
-            key:"AIzaSyBibuyCLjbqpGIjOpa8s_A3bx3XsHepveQ",
+            key:"[API KEY]",
             q:searchItem
         }
     })
